@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkedu_boss_fed"]=self["webpackChunkedu_boss_fed"]||[]).push([[177],{7144:function(e,n,u){u.r(n),u.d(n,{default:function(){return d}});var s=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("h1",[e._v("进入项目后, 首页")])},t=[],f={name:"HomeIndex"},r=f,l=u(1001),c=(0,l.Z)(r,s,t,!1,null,"4d2293f4",null),d=c.exports}}]);
